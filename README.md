@@ -1,4 +1,13 @@
 # Git & GitHub Foundations Course
+## 📂 Repository Architecture
+```text
+GH-Foundations/
+├── labs/               # 14 Learn-by-doing lab modules
+├── cheatsheets/        # Quick reference guides for Git & GitHub
+├── templates/          # Ready-to-use markdown & .gitignore templates
+├── workflows/          # GitHub Actions example configuration files
+└── README.md           # This course description map
+```
 
 Welcome to the **Git and GitHub Foundations** course repository! This course is designed to take you from a complete beginner to a confident collaborator using the world’s most popular version control toolset. The curriculum aligns closely with the official **[GitHub Foundations (GH-900) Certification Exam](https://github.com)** domains.
 
@@ -41,12 +50,3 @@ To actively participate in the labs and exercises, you must install the followin
 3. **GitHub Account:** Sign up for a free cloud account on [GitHub](https://github.com).
    * *Tip for Students:* If you are currently enrolled in an academic program, apply for the student developer package at [GitHub Education](https://github.com) to unlock free certification vouchers and partner benefits.
 
-## 📂 Repository Architecture
-```text
-GH-Foundations/
-├── labs/               # 14 Learn-by-doing lab modules
-├── cheatsheets/        # Quick reference guides for Git & GitHub
-├── templates/          # Ready-to-use markdown & .gitignore templates
-├── workflows/          # GitHub Actions example configuration files
-└── README.md           # This course description map
-```
